@@ -1,3 +1,7 @@
+Open and Run: main.py
+
+
+
 SIP Full Proxy
 ==============
 
