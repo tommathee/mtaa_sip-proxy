@@ -16,10 +16,6 @@
 
 import socketserver
 import re
-import string
-import socket
-#import threading
-import sys
 import time
 import logging
 
